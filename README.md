@@ -1,3 +1,14 @@
+
+This repo is intended as a Sandbox for experimenting with developing a Progressive Web App, or PWA. It is a fork of an existing ['hello world' repo by jamesjohnson280](https://github.com/jamesjohnson280/hello-pwa)
+
+PWA is a term that describes a set of browser features that allows a website to function offline.
+
+<br />
+
+The original Readme can be found below:
+
+--------
+
 # Hello PWA
 The classic Hello World program as a Progressive Web App
 
